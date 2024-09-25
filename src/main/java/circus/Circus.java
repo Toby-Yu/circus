@@ -7,6 +7,12 @@ import circus.animal.Tiger;
 import circus.stuff.Cannon;
 import circus.stuff.Equipment;
 import circus.stuff.Ladder;
+import circus.animal.Elephant;
+
+import java.util.ArrayList;
+import java.util.Arrays;
+
+import static circus.animal.Animal.AnimalNameComparator;
 
 public class Circus {
     private static Animal[] animals = {
